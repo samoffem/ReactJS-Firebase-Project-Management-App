@@ -1,0 +1,23 @@
+.dashboard-container{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
+.project-list{
+    margin-left: 150px;
+}
+.project-list p:first-of-type{
+    margin-top: 7px;;
+}
+p{
+    margin: 0;
+}
+span{
+    font-weight: bold;
+}
+.gray{
+    color: #bdbaba;
+}
+.post{
+    margin-top: 30px;
+}
