@@ -1,0 +1,20 @@
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+ul li{
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+}
+
+.circle{
+    background-color: #e41988;
+    border-radius: 50%;
+    padding: 8px;
+}

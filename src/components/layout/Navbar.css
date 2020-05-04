@@ -1,0 +1,18 @@
+
+.container{
+    display: flex;
+}
+.nav-item{
+    flex: auto;
+    text-align: center;
+}
+.nav-bar{
+    background-color: #585656;
+    padding: 15px;
+}
+.brand-logo{
+    text-decoration: none;
+    color: white;
+    font-size: 2em;
+    font-family: Tahoma;
+}
