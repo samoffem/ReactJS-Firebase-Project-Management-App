@@ -4,7 +4,7 @@ import './SignedInLinks.css'
 
 const SignedOutLinks = ({className})=>{
     return (
-        <ul className={className}>
+        <ul className="nav-item">
             <li><NavLink to='/'>Sign Up</NavLink></li>
             <li><NavLink to='/'>Log in</NavLink></li>
         </ul>

@@ -1,0 +1,13 @@
+.project-details {
+    width: 50%;
+    margin: 5px auto;
+}
+
+.details{
+    margin-top: 20px;
+    border-top: 1px solid grey;
+}
+.title{
+   display: table;
+   margin: 0 auto;
+}

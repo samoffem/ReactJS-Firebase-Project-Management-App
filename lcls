@@ -1,0 +1,17 @@
+[33mcommit 7ee0c38ffc6e7d3d07061b3eeb6e3871aca36887[m[33m ([m[1;36mHEAD -> [m[1;32mdashboard[m[33m)[m
+Author: Samuel Offem <samoffem@gmail.com>
+Date:   Mon May 4 21:55:45 2020 +0100
+
+    initial dashboard created
+
+[33mcommit 33859d2c44c96a1176d8697d50f63ac9f065f052[m[33m ([m[1;32mNavigationBar[m[33m)[m
+Author: Samuel Offem <samoffem@gmail.com>
+Date:   Mon May 4 18:42:23 2020 +0100
+
+    Initial Navigation Bar created
+
+[33mcommit 5d58b8323f1191581e1787fc1c854d176a86a6f7[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Samuel Offem <samoffem@gmail.com>
+Date:   Sat May 2 15:04:59 2020 +0100
+
+    Initialize project using Create React App

@@ -9,8 +9,8 @@ const Navbar = ()=>{
         <nav className="nav-bar">
             <div className="container">
                 <Link to='/' className="brand-logo nav-item">Manager</Link>
-                <SignedOutLinks className="nav-item"/>
-                <SignedInLinks className="nav-item"/>
+                <SignedOutLinks />
+                <SignedInLinks/>
                 
             </div>
             
